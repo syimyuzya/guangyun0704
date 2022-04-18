@@ -14,6 +14,7 @@
   - `build.py`：腳本本體
   - `mdbdump.csv`：用 mdbtools 提取的 MDB 原檔內容，由於 mdbtools 的不足，Unicode BMP 以外的字符無法正確提取，但可用於修正純文字資料時作參照之用
 - `Kuankhiunn0704-semicolon.txt`：重製版純文字檔，將原 TXT 版字段分隔符改為用 `;`，由於內容文字不含 `;` 故該版沒有歧義
+- `version0605-readme.txt`：有女同車於北大中文論壇所發貼文（已佚，此為別處轉貼版本），內含舊版全字表 readme（推測為）全文，對原表內容有更多解釋，並講述了該項目之緣起
 
 ## 特別注意
 
