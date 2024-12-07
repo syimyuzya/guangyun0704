@@ -1,4 +1,4 @@
-廣韻全字表（unicode 3.1 字符集）
+廣韻全字表(unicode 3.1-2007-4-18更新)
 
 作者：有女同车
 
@@ -60,7 +60,7 @@ Unicode 3.1版的廣韻字表。此表共收入cjk ideographs + cjk ideograph ex
 
 13，備註——期中包括：
         A）對Zgheng字表的修正說明、意見、存疑
-        B）number-&gt;number是小韻收字數的更改。
+        B）number->number是小韻收字數的更改。
         C）「原作某某、从某某」之類是對《廣韻》原本錯字、Ms PMingLiU字體文檔錯誤字形或因Unicode 3.1 CJK字符集容量所限而不得不如此的，所改用的異體字（或者稱作異型^_^似乎更妥）的說明。★
         D）Unicode缺字說明。★
         E）雜七雜八的窮聊八卦。
